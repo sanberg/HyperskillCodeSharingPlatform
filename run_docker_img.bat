@@ -1,0 +1,1 @@
+docker run -d -p 8889:8889 sanberg.io/imagedemo/codesharingplatform:1.0.1
